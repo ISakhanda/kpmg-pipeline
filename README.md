@@ -1,4 +1,4 @@
-# kpmg-pipeline
+# KPMG-pipeline
 Pipeline for the KPMG use case made for BeCode trainees.
 
 # Prerequisites
